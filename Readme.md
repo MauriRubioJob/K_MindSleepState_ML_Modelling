@@ -1,1 +1,1 @@
-In this Repository I will work on the data and for the purppose of the following Kaggle Child Mind Sleep Status Project
+In this Repository I will work on the data and for the purppose of the following [Kaggle Child Mind Sleep Status Project](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/overview)
